@@ -1,3 +1,2 @@
 # Airport-Runner-Free
-https://eitoi.github.io/Airport-Runner-Free
-
+github.com/eitoi/airport-runner for more info
